@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Thesaurus</string>
+    <string name="search_hint">SearchView</string>
+    <string name="search_result">Search Result!</string>
+    <string name="menu_search">search</string>
+    <string name="action_settings">settings</string>
+    <string name="exit">Exit</string>
+</resources>
